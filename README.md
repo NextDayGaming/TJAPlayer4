@@ -1,4 +1,8 @@
-# TJAPlayer3
+# TJAPlayer4
+TJAPlayer4 Is An Translated Version Of TJAPlayer 3.
+TJAPlayer4 Tries To Update The Old TJAPlayer3 With A New Version Made By NextDayGaming
+
+# TJAPlayer3 Readme
 DTXManiaをいじってtja再生プログラムにしちゃった[TJAPlayer2fPC](https://github.com/kairera0467/TJAP2fPC)をForkして本家風に改造したアレ。
 
 この改造者[@aioilight](https://twitter.com/aioilight)はプログラミングが大変苦手なので、スパゲッティコードと化していると思います...すみません
